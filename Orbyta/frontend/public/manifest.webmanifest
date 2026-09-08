@@ -1,0 +1,10 @@
+{
+  "name":"Orbyta Women’s Health Companion",
+  "short_name":"Orbyta",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#faf9ff",
+  "theme_color":"#7c3aed",
+  "description":"Preventive reproductive health education, PCOS awareness and AI health guidance.",
+  "icons":[{"src":"/orbyta-logo.png","sizes":"any","type":"image/png","purpose":"any maskable"}]
+}
