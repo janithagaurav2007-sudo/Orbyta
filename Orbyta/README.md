@@ -1,4 +1,4 @@
-# ORBYTA — PCOS Prediction & Awareness Platform
+# ORBYTA — PCOS Screening & Awareness Platform
 
 This version shifts Orbyta from a regular period tracker into a **PCOS-focused screening, awareness and wellness companion**.
 
